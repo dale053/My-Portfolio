@@ -1,0 +1,8 @@
+cover_image: 1,
+published_at: "2025",
+public_reactions_count: "Jun 2013",
+comments_count: "120",
+url: "https://ibt.edu/programs/medical-assistant/
+title: "Medical Assistant Training",
+reading_time_minutes: "3",
+description: "The United States is experiencing an increasing demand for Allied Health Professionals such as Medical Assistants! With an aging population, increasing life expectancies, and more people than ever before with health insurance, the Healthcare industry is booming, and it depends upon Allied Health Professionals to keep it moving. As a Medical Assistant you can become a valuable member of the healthcare profession, working with and alongside doctors to treat and take care of patients in need. Medical Assisting is a career that requires heart and deep compassion; it is a challenging career but very rewarding. If you think you would enjoy helping others, then you deserve to learn more about becoming a Medical Assistant.",
